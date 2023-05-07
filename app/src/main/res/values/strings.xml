@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Okmányiroda</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai cím</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírás</string>
+    <string name="login_with_google">Bejelentkezés google fiókkal</string>
+    <string name="login_as_guest">Bejelentekezés vendégként</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string name="book_appointment">Időpontfoglalás</string>
+    <string name="delete">Törlés</string>
+    <string-array name="case_item_names">
+        <item>Gépjármű-ügyintézés</item>
+        <item>Személyi okmányokkal kapcsolatos ügyintézés</item>
+        <item>Vállalkozói ügyek</item>
+        <item>Állampolgársági ügyek</item>
+        <item>Név- és állapotváltozás bejelentése</item>
+        <item>Nyugdíjügyek</item>
+        <item>Egészségbiztosítási ügyek</item>
+        <item>Földhivatali ügyek</item>
+    </string-array>
+
+    <string-array name="case_item_desc">
+        <item>járművek forgalomba helyezése, kivonása, tulajdonjogának változása, rendszámtáblák kiadása, pótlása, cseréje, stb</item>
+        <item>személyazonosító igazolvány, lakcímigazolvány, útlevél, vezetői engedély ügyintézése, pótlása, cseréje, parkolási igazolvány ügyintézése, stb</item>
+        <item>cégbejegyzés, adószám igénylés, vállalkozói igazolvány ügyintézése, stb</item>
+        <item>magyar állampolgárság igénylése, megszerzése, visszaszerzése, megállapítása, feladása, stb.</item>
+        <item>házasságkötés, válás, névváltoztatás, gyermek születése, haláleset bejelentése, stb.</item>
+        <item>nyugdíjigénylés, nyugdíjfolyósítás, nyugdíjemelés, nyugdíjbiztosítás, stb.</item>
+        <item>társadalombiztosítási azonosító jel (TAJ) igénylése, pótlása, cseréje, egészségügyi szolgáltatási járulék befizetése, egészségügyi ellátásra jogosultság igazolása, stb.</item>
+        <item>ingatlan-nyilvántartásba vétel, tulajdoni lap kiadása, földmérési térkép kiadása, ingatlan-adásvételi szerződés ellenjegyzése, stb.</item>
+    </string-array>
+
+    <string-array name="case_dates">
+        <item>Hétfő 9:15</item>
+        <item>Kedd 11:30</item>
+        <item>Szerda 14:45</item>
+        <item>Csütörtök 10:00</item>
+        <item>Péntek 13:00</item>
+        <item>Hétfő 15:30</item>
+        <item>Kedd 8:45</item>
+        <item>Szerda 12:15</item>
+        <item>Csütörtök 14:00</item>
+        <item>Péntek 9:30</item>
+    </string-array>
+</resources>
